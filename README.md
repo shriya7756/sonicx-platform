@@ -1,23 +1,26 @@
-# Event Rescue — Prototype
 
-This repository is a runnable prototype of the Event Rescue realtime situational-awareness system.
-It contains a FastAPI backend (mock detectors + websocket) and a React + Tailwind frontend dashboard.
+=======
+# SonicX - AI-Driven Emergency Management Platform
 
-## Structure
-See the provided tree in the project root.
+A modern, innovative website for SonicX, an AI-driven emergency management and crowd-monitoring platform. The site showcases all features individually while providing a central dashboard where users can see summaries and interact with all features.
 
-## Quick start (backend)
-1. cd backend
-2. python -m venv .venv
-3. source .venv/bin/activate  # Windows: .venv\Scripts\activate
-4. pip install -r requirements.txt
-5. uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+## 🚀 Features
 
-## Quick start (frontend)
-1. cd frontend
-2. npm install
-3. npm start
+### Core Modules
+- **Crowd Monitoring** - Real-time crowd density analysis and flow tracking
+- **Anomaly Detection** - AI-powered threat detection and unusual pattern analysis
+- **Help Dispatch** - Emergency response coordination and team management
+- **Predictive Analytics** - AI-powered forecasting and risk analysis
+- **Lost & Found** - AI-powered facial recognition and item tracking
+- **NLP Summaries** - Natural language processing for intelligent reporting
+- **Notifications** - Real-time alerts and system notifications
+- **Dashboard** - Centralized view of all features and metrics
 
-## Notes
-- Replace Firebase and cloud model placeholders with your credentials.
-- The detectors are mock implementations meant for rapid prototyping.
+## 🛠️ Technology Stack
+
+- **React 18** with TypeScript
+- **Tailwind CSS** for styling
+- **Framer Motion** for animations
+- **React Router** for navigation
+- **Recharts** for data visualization
+- **Lucide React** for icons
