@@ -1,5 +1,3 @@
-
-=======
 # SonicX - AI-Driven Emergency Management Platform
 
 A modern, innovative website for SonicX, an AI-driven emergency management and crowd-monitoring platform. The site showcases all features individually while providing a central dashboard where users can see summaries and interact with all features.
